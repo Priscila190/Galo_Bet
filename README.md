@@ -1,2 +1,2 @@
-# Galo_Bet
-Galo bet é um site de casa de aposta 
+# Red_Bet
+Red bet é um site de casa de aposta 
